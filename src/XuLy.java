@@ -12,7 +12,7 @@ public class XuLy {
 
 		while (true) {
 			System.out.println("\n===== Oẳn Tù Tì =====");
-			System.out.println("1. Búa");
+			System.out.println("1. Kim");
 			System.out.println("2. Bao");
 			System.out.println("3. Kéo");
 			System.out.println("0. Nghỉ chơi");
